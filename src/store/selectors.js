@@ -1,0 +1,1 @@
+export const getBreed = store => store.breed;
